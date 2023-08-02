@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/auto-homework-master/static/css/main.09b4f5c7.css",
+    "main.js": "/auto-homework-master/static/js/main.3499d456.js",
+    "static/js/787.66cb4309.chunk.js": "/auto-homework-master/static/js/787.66cb4309.chunk.js",
+    "static/media/avatar.png": "/auto-homework-master/static/media/avatar.d947cb9d0d13765666b6.png",
+    "index.html": "/auto-homework-master/index.html",
+    "main.09b4f5c7.css.map": "/auto-homework-master/static/css/main.09b4f5c7.css.map",
+    "main.3499d456.js.map": "/auto-homework-master/static/js/main.3499d456.js.map",
+    "787.66cb4309.chunk.js.map": "/auto-homework-master/static/js/787.66cb4309.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.09b4f5c7.css",
+    "static/js/main.3499d456.js"
+  ]
+}
