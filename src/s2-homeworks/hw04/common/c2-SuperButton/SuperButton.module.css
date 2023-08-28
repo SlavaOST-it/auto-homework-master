@@ -1,4 +1,17 @@
 .button {
+    color: black;
+    padding: 3px 15px;
+    text-decoration: none;
+    text-align: center;
+    margin: 2px;
+    background-color: white;
+    background-image: linear-gradient(to left, transparent, transparent 50%, black 50%, black);
+    background-position: 100% 0;
+    background-size: 200% 100%;
+    transition: all .50s ease-in;
+    font: 400 18px Tahoma;
+    font-weight: bold;
+    border: 0.5px solid black;
 }
 
 .disabled {
@@ -11,12 +24,15 @@
 }
 
 .red {
+    background: #ea6f6f;
 }
 
 .default:hover {
 }
 
 .red:hover {
+    background: #441313;
+
 }
 
 .secondary:hover {
@@ -30,6 +46,7 @@
 }
 
 .red:active {
+    background: #ff0000;
 }
 
 .button:disabled {
