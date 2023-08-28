@@ -15,9 +15,11 @@
 }
 
 .disabled {
+    background: #777777;
 }
 
 .secondary {
+    background: #3170ad;
 }
 
 .default {
