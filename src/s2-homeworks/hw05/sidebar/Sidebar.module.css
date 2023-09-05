@@ -1,24 +1,40 @@
 .sidebar {
+    display: none;
 }
 
 .sidebar.open {
+    display: block;
 }
 
 .background {
+    background-color: rgba(72, 72, 72, 0.58);
 }
 
 .nav {
+    display: flex;
+    flex-direction: column;
 }
 
 .nav a {
+    color: #000;
+    font-size: 22px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+    text-decoration: none;
 }
 
 .nav a:hover {
+    color: #58ACFF;
 }
 
 .nav a.active {
+    color: #0059B2;
+    text-decoration-line: underline;
 }
+
 .close {
+
 }
 
 .close img {

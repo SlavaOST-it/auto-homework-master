@@ -42,6 +42,7 @@
 
 
 .default:active {
+    background: #ffde00;
 }
 
 .secondary:active {
